@@ -1,0 +1,15 @@
+.bounce-enter{
+   opacity: 0;
+ }
+ .bounce-enter-active{
+   transition: all .5s ease;
+ }
+ .bounce-leave{
+   opacity: 1;
+ }
+ .bounce-leave-active{
+   transition: all .5s ease;
+ }
+ .bounce-leave-to{
+   opacity: 0;
+ }
